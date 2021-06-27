@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=aritrakar)
 
-![![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aritra-kar-a792751a6/)
+<!-- ![![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aritra-kar-a792751a6/) -->
 
-[![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritrakar&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aritra-kar-a792751a6/)
+
+[![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritrakar&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages:
