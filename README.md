@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=aritrakar)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aritra-kar-a792751a6/)
+![![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aritra-kar-a792751a6/)
+
+[![Aritra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aritrakar)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages:
 
