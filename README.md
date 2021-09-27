@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Python, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://aritrakar.com](https://aritrakar.com)
+- 👨‍💻 All of my projects are available at [www.aritrakar.com](https://aritrakar.com)
 
 - 💬 Ask me about **React.js, Python**
 
