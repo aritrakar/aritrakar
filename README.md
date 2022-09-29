@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aritra Kar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Hi👋, I'm Aritra</h1>
+<h3 align="center">I write code to simplify life</h3>
 
 <p align="left">
   <img
