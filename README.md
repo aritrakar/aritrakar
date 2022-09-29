@@ -182,7 +182,7 @@
     </a>
 </p>
 
-<div>
+<!--<div>
   <p>
     <img
       align="left"
@@ -198,6 +198,6 @@
       alt="aritrakar"
     />
   </p>
-</div>
+</div>-->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aritrakar&theme=onedark" alt="aritrakar" /></p> -->
