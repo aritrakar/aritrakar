@@ -11,10 +11,10 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrakar&theme=onedark" alt="aritrakar" /></a> </p> -->
 
 - 🔭 I’m currently working on **JavaScript**
-- 🌱 I’m currently learning **Scikit-learn, Tensorflow**
-- 👯 I’m looking to collaborate on **Python, JavaScript**
+- 🌱 I’m currently learning **Go, Tensorflow**
+- 👯 I’m looking to collaborate on **Python, JavaScript, C++**
 - 👨‍💻 All of my projects are available at [www.aritrakar.com](https://aritrakar.com)
-- 💬 Ask me about **React.js, Python**
+- 💬 Ask me about **C++, React.js, Python**
 - 📫 How to reach me: **aritrakar2002@gmail.com**
 - 📄 Know about my experiences: [Resume](https://aritrakar.com/Resume.pdf)
 
