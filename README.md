@@ -90,6 +90,9 @@
         height="40"
         />
     </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go"
+        width="40"
+        height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r"
         width="40"
         height="40" />
