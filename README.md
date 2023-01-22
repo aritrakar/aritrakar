@@ -112,6 +112,10 @@
         height="40"
         />
     </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"                
+        alt="docker"
+        width="40"
+        height="40" />
     <a href="https://reactjs.org/" target="_blank">
         <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
