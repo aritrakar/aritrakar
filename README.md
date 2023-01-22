@@ -184,6 +184,11 @@
         height="40"
         />
     </a>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"                
+        alt="docker"
+        width="40"
+        height="40" />
 </p>
 
 <!--<div>
