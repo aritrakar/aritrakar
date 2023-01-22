@@ -57,6 +57,13 @@
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left">
+  </a>
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        alt="cplusplus"
+        width="40"
+        height="40"
+    />
     <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
@@ -66,13 +73,6 @@
       alt="javascript"
       width="40"
       height="40"
-    />
-    </a>
-    <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus"
-        width="40"
-        height="40"
     />
     <a href="https://www.python.org" target="_blank">
         <img
