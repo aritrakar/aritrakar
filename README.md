@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **Python, JavaScript, C++**
 - 👨‍💻 All of my projects are available at [www.aritrakar.com](https://aritrakar.com)
 - 💬 Ask me about **C++, React.js, Python**
-- 📫 How to reach me: **aritrakar2002@gmail.com**
+- 📫 How to reach me: **aritrakar2002@gmail.com / a8kar@uwaterloo.ca**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1UKdltOyTTQ1Ec7V3_4KFmFMxJHgcR4Ki/view?usp=sharing)
 
 <h3 align="left"><b>Connect with me:</b></h3>
