@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrakar&theme=onedark" alt="aritrakar" /></a> </p> -->
 
-- 💼 Seeking internships for **Fall 2023**
+- 💼 Seeking internships for **Fall 2023**, reach out :)
 - 🔭 I’m currently working on **JavaScript**
 - 🌱 I’m currently learning **Go, Tensorflow**
 - 👯 I’m looking to collaborate on **Python, JavaScript, C++**
