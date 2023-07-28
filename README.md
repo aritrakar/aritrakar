@@ -17,8 +17,8 @@
 - 👨‍💻 All of my projects are available at [www.aritrakar.com](https://aritrakar.com)
 - 💬 Ask me about **C++, Python, React.js**
 - 📫 How to reach me: **aritrakar2002@gmail.com / a8kar@uwaterloo.ca**
-<!-- - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1sB3XPTvQCXDHFp4e18QM6eTFsshlu1Gj/view?usp=sharing) -->
 - 📄 Know about my experiences: [Resume](https://github.com/aritrakar/resume/blob/main/Aritra_Kar_Resume.pdf)
+<!-- - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1sB3XPTvQCXDHFp4e18QM6eTFsshlu1Gj/view?usp=sharing) -->
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
