@@ -10,14 +10,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrakar&theme=onedark" alt="aritrakar" /></a> </p> -->
 
-- 💼 Seeking internships for **Fall 2023**, reach out :)
-- 🔭 I’m currently working on **JavaScript**
+- 💼 Seeking internships for **Summer 2024**, reach out :)
+- 🔭 I’m currently working on **TypeScript**
 - 🌱 I’m currently learning **Go, Tensorflow**
-- 👯 I’m looking to collaborate on **Python, JavaScript, C++**
+- 👯 I’m looking to collaborate on **C++, Python, JavaScript**
 - 👨‍💻 All of my projects are available at [www.aritrakar.com](https://aritrakar.com)
-- 💬 Ask me about **C++, React.js, Python**
+- 💬 Ask me about **C++, Python, React.js**
 - 📫 How to reach me: **aritrakar2002@gmail.com / a8kar@uwaterloo.ca**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1sB3XPTvQCXDHFp4e18QM6eTFsshlu1Gj/view?usp=sharing)
+<!-- - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1sB3XPTvQCXDHFp4e18QM6eTFsshlu1Gj/view?usp=sharing) -->
+- 📄 Know about my experiences: [Resume](https://github.com/aritrakar/resume/blob/main/Aritra_Kar_Resume.pdf)
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
@@ -26,6 +27,14 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="aritra-kar"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://twitter.com/aritrakar28" target="_blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="aritrakar28"
       height="30"
       width="40"
   /></a>
@@ -53,14 +62,36 @@
       height="30"
       width="40"
   /></a>
+  <a href="https://www.instagram.com/aritrakar28/" target="_blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="aritrakar28"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left">
-  </a>
+<!--   </a> -->
     <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
         alt="cplusplus"
+        width="40"
+        height="40"
+    />
+    <a href="https://www.python.org" target="_blank">
+        <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="python"
+        width="40"
+        height="40"
+        />
+    </a>
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        alt="typescript"
         width="40"
         height="40"
     />
@@ -74,14 +105,6 @@
       width="40"
       height="40"
     />
-    <a href="https://www.python.org" target="_blank">
-        <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python"
-        width="40"
-        height="40"
-        />
-    </a>
     <a href="https://www.java.com" target="_blank">
         <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -172,6 +195,10 @@
         alt="tensorflow"
         width="40"
         height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"                
+        alt="pytorch"
+        width="40"
+        height="40" />
     <a href="https://postman.com" target="_blank">
         <img
         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -188,9 +215,12 @@
         height="40"
         />
     </a>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"                
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"                
         alt="docker"
+        width="40"
+        height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"                
+        alt="gitlab"
         width="40"
         height="40" />
 </p>
