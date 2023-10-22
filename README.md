@@ -10,13 +10,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrakar&theme=onedark" alt="aritrakar" /></a> </p> -->
 
-- 💼 Seeking internships for **Summer 2024**, reach out :)
+- 💼 Seeking internships for **Summer & Fall 2024**, reach out :)
 - 🔭 I’m currently working on **TypeScript**
 - 🌱 I’m currently learning **Go, Tensorflow**
 - 👯 I’m looking to collaborate on **C++, Python, JavaScript**
 - 👨‍💻 All of my projects are available at [www.aritrakar.com](https://aritrakar.com)
 - 💬 Ask me about **C++, Python, React.js**
-- 📫 How to reach me: **aritrakar2002@gmail.com / a8kar@uwaterloo.ca**
+- 📫 How to reach me: **aritrakar2002 [at] gmail [dot] com / a8kar [at] uwaterloo [dot] ca**
 - 📄 Know about my experiences: [Resume](https://github.com/aritrakar/resume/blob/main/Aritra_Kar_Resume.pdf)
 <!-- - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1sB3XPTvQCXDHFp4e18QM6eTFsshlu1Gj/view?usp=sharing) -->
 
