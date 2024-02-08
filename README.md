@@ -10,9 +10,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrakar&theme=onedark" alt="aritrakar" /></a> </p> -->
 
-- 💼 Seeking internships for **Summer & Fall 2024**, reach out :)
+- 💼 Seeking internships for **Fall 2024**, feel free to reach out :)
 - 🔭 I’m currently working on **TypeScript**
-- 🌱 I’m currently learning **Go, Tensorflow**
+- 🌱 I’m currently learning **Go, Rust, PyTorch**
 - 👯 I’m looking to collaborate on **C++, Python, JavaScript**
 - 👨‍💻 All of my projects are available at [www.aritrakar.com](https://aritrakar.com)
 - 💬 Ask me about **C++, Python, React.js**
