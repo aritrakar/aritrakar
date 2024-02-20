@@ -1,6 +1,7 @@
 <h1 align="center">Hello there, I'm Aritra👋</h1>
-<h3 align="center">CS + AI + Statistics @ University of Waterloo</h3>
-<h3 align="center">I write code to simplify life</h3>
+<h2 align="center">CS + AI + Statistics @ University of Waterloo</h2>
+<h3 align="center">Seeking Fall 2024 internships</h3>
+<!-- <h3 align="center">I write code to simplify life</h3> -->
 
 <!--<p align="left">
   <img
@@ -11,7 +12,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrakar&theme=onedark" alt="aritrakar" /></a> </p> -->
 
-- 💼 Seeking internships for **Fall 2024**, feel free to reach out :)
+<!-- - 💼 Seeking internships for **Fall 2024**, feel free to reach out :) -->
 - 🔭 I’m currently working on **AI projects**
 - 🌱 I’m currently learning **Go, Rust, PyTorch**
 - 👯 I’m looking to collaborate on **C++, Python, JavaScript**
