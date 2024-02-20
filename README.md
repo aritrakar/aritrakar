@@ -1,4 +1,5 @@
 <h1 align="center">Hello there, I'm Aritra👋</h1>
+<h3 align="center">CS + AI + Statistics @ University of Waterloo</h3>
 <h3 align="center">I write code to simplify life</h3>
 
 <!--<p align="left">
@@ -11,10 +12,10 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aritrakar&theme=onedark" alt="aritrakar" /></a> </p> -->
 
 - 💼 Seeking internships for **Fall 2024**, feel free to reach out :)
-- 🔭 I’m currently working on **TypeScript**
+- 🔭 I’m currently working on **AI projects**
 - 🌱 I’m currently learning **Go, Rust, PyTorch**
 - 👯 I’m looking to collaborate on **C++, Python, JavaScript**
-- 👨‍💻 All of my projects are available at [www.aritrakar.com](https://aritrakar.com)
+- 👨‍💻 Check out my website here: [www.aritrakar.com](https://aritrakar.com)
 - 💬 Ask me about **C++, Python, React.js**
 - 📫 How to reach me: **aritrakar2002 [at] gmail [dot] com / a8kar [at] uwaterloo [dot] ca**
 - 📄 Know about my experiences: [Resume](https://github.com/aritrakar/resume/blob/main/Aritra_Kar_Resume.pdf)
@@ -229,6 +230,15 @@
         alt="gitlab"
         width="40"
         height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+        alt="aws"
+        width="40"
+        height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+        alt="azure"
+        width="40"
+        height="40"
+      />
 </p>
 
 <!--<div>
