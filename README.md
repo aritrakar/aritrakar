@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Aritra👋</h1>
 <h2 align="center">CS + AI + Statistics @ University of Waterloo</h2>
-<h3 align="center">Seeking Fall 2024 internships</h3>
+<h3 align="center">Seeking FT roles from May 2025</h3>
 <!-- <h3 align="center">I write code to simplify life</h3> -->
 
 <!--<p align="left">
